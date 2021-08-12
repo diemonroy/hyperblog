@@ -1,5 +1,7 @@
 biginin with git  !!
-next step
+
+Añadiendo nueva persona
+para WorkFlow
 
 esto va en españo
 blablalba
