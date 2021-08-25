@@ -7,5 +7,10 @@ __DM__
 
 
 - creado por team 
+<<<<<<< HEAD
+=======
+-expamles 
+-disponible 
+>>>>>>> readme-mejorado
 
 
